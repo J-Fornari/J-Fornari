@@ -21,7 +21,7 @@
   <img align="center" alt="Fornari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fornari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fornari-Powershell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
-  <img align="right" alt="Fornari-Gif" height="165" src="https://i.gifer.com/Mv.gif">
+  <img align="right" alt="Fornari-Gif" height="165" src="https://i.pinimg.com/originals/6b/d2/1d/6bd21d6d541c056c5ebc23e6cbfd05eb.gif">
 </div>
 
 ##
@@ -39,18 +39,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-Fornari/J-Fornari/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/J-Fornari/J-Fornari/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!--
-**J-Fornari/J-Fornari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
