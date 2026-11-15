@@ -1,5 +1,9 @@
 ## Olá, Sejam Bem Vindos👋
 
+<p align="center">Estudante de Análise e Desenvolvimento de sistema pela Fatec de Ribeirão Preto. Possuo conhecimentos em análise e visualização de dados, banco de dados, lógica de programação e ferramentas voltadas à tomada de decisão baseada em dados.
+
+#
+
  <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=J-FORNARI&theme=dark_github"
