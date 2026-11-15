@@ -30,6 +30,11 @@
   <a href="https://www.linkedin.com/in/joao-ricardo-733436201" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-Fornari/J-Fornari/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-Fornari/J-Fornari/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/J-Fornari/J-Fornari/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **J-Fornari/J-Fornari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
